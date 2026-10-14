@@ -20,10 +20,10 @@ How to Run the Game
    and Players (1 or 2) before pressing "Start Game".
 
 Game Controls
-Player 1:
-Movement: W, A, S, D
-Shoot Shotgun: Spacebar
-Player 2 (if selected):
-Movement: Up, Down, Left, Right Arrow Keys
-Shoot Shotgun: Enter
-General: In-Game Escape to the Main Menu: Escape (ESC)
+* Player 1:
+* Movement: W, A, S, D
+* Shoot Shotgun: Spacebar
+* Player 2 (if selected):
+* Movement: Up, Down, Left, Right Arrow Keys
+* Shoot Shotgun: Enter
+* General: In-Game Escape to the Main Menu: Escape (ESC)
