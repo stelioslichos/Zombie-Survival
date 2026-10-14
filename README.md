@@ -5,8 +5,6 @@
  / /_| (_) | | | | | | |_) | |  __/  ____) | |_| | |   \ V /| |\ V / (_| | |
 /_____\___/|_| |_| |_|_.__/|_|\___| |_____/ \__,_|_|    \_/ |_| \_/ \__,_|_|
 
-Student Number: 100827155
-Module: 4CM512 Games Technologies
 Unity Version: This game was developed using Unity lab version 6000.3.73f1.
 
 Game Description
