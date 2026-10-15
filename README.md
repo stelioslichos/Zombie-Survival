@@ -1,20 +1,33 @@
-``` ______               _     _         _____                  _            _                     
+```
+ ______               _     _         _____                  _            _                     
 |___  /              | |   (_)       / ____|                (_)          | |
    / / ___  _ __ ___ | |__  _  ___  | (___  _   _ _ ____   _____   ____ _| |
   / / / _ \| '_ ` _ \| '_ \| |/ _ \  \___ \| | | | '__\ \ / / \ \ / / _` | |
  / /_| (_) | | | | | | |_) | |  __/  ____) | |_| | |   \ V /| |\ V / (_| | |
 /_____\___/|_| |_| |_|_.__/|_|\___| |_____/ \__,_|_|    \_/ |_| \_/ \__,_|_|
-
+```
+```
 Gameplay
-![ZombieSurvival-Gameplay](https://github.com/user-attachments/assets/8b1a81ac-d96b-4c12-af83-69d0f6369c79)
+```
+
+![ZombieSurvival-Gameplay](https://github.com/user-attachments/assets/690bf2ac-6194-48ab-b962-c53591ddd46d)
+
+![Menu Screenshot](https://github.com/user-attachments/assets/bb3935b3-7a75-45e8-9981-3562629b8e91)
+
+![Key found Screenshot](https://github.com/user-attachments/assets/7085e073-5d44-4ba3-9517-594285671195)
+
+![Game over Screenshot](https://github.com/user-attachments/assets/34253e9e-82d1-4cf0-9c08-8c681750f71b)
 
 
+```
 Unity Version: This game was developed using Unity lab version 6000.3.73f1.
+
 
 Game Description
 Zombie Survival is a top-down, grid-based survival arcade game. One or two players must navigate a dark, dungeon-like arena, scavenge
 for ammo crates, and locate a hidden Skeleton Key. Players must fulfill a kill quota by defeating a specific number of zombies with
 their shotguns and find the hidden key. Once both conditions are met, a central exit portal appears to allow their escape.
+
 
 How to Run the Game
 1. Extract the provided zip folder to your local machine.
@@ -22,6 +35,7 @@ How to Run the Game
 3. Double-click the executable to launch the game.
 4. Navigate the Main Menu to select Grid Size (15x15, 20x20 or 30x30), Screen Wrap (Yes or No), Difficulty (Easy, Medium of Hard)
    and Players (1 or 2) before pressing "Start Game".
+
 
 Game Controls
 Player 1:
@@ -31,3 +45,4 @@ Player 2 (if selected):
 Movement: Up, Down, Left, Right Arrow Keys
 Shoot Shotgun: Enter
 General: In-Game Escape to the Main Menu: Escape (ESC)
+```
