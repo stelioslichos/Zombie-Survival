@@ -6,7 +6,8 @@
 /_____\___/|_| |_| |_|_.__/|_|\___| |_____/ \__,_|_|    \_/ |_| \_/ \__,_|_|
 
 ## Gameplay
-![ZombieSurvival-Gameplay](https://github.com/user-attachments/assets/7cf80134-b8f0-49e6-bb0d-6affa767f281)
+![ZombieSurvival-Gameplay](https://github.com/user-attachments/assets/8b1a81ac-d96b-4c12-af83-69d0f6369c79)
+
 
 Unity Version: This game was developed using Unity lab version 6000.3.73f1.
 
