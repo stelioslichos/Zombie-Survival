@@ -5,7 +5,7 @@
  / /_| (_) | | | | | | |_) | |  __/  ____) | |_| | |   \ V /| |\ V / (_| | |
 /_____\___/|_| |_| |_|_.__/|_|\___| |_____/ \__,_|_|    \_/ |_| \_/ \__,_|_|
 
-## Gameplay
+Gameplay
 ![ZombieSurvival-Gameplay](https://github.com/user-attachments/assets/8b1a81ac-d96b-4c12-af83-69d0f6369c79)
 
 
